@@ -1,0 +1,10 @@
+# Colab에는 대부분 기본 설치되어 있습니다. 로컬에서 실습할 때 사용하세요.
+# pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+kagglehub
+jupyter

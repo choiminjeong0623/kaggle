@@ -1,0 +1,24 @@
+# Kaggle API 키 — 절대 커밋하지 않기
+kaggle.json
+.kaggle/
+
+# 데이터 파일 (용량이 큰 원본 데이터는 커밋하지 않음)
+data/*
+!data/README.md
+*.zip
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
